@@ -19,3 +19,7 @@ target/
 .repository/
 *.iml
 *.iws
+*.tar.gz
+*.zip
+*.jdk
+
